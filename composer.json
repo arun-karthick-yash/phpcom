@@ -16,7 +16,7 @@
         },
         
     "require": {
-        "arun-karthick-yash/phpcom": "dev-master"
+      
     },
     "repositories": [
         {
