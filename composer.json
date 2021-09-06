@@ -1,0 +1,21 @@
+{
+    "name": "arun-karthick-yash/phpcom",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "php-package",
+            "email": "arunkarthickk82@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Acme\\":"src"
+        },
+    "require": {}
+}
+
+}
+
