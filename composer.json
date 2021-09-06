@@ -3,7 +3,7 @@
     "description": "Test",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "phpcom",
@@ -14,16 +14,7 @@
         "psr-4":{
             "Acme\\":"src"
         },
-        
-    "require": {
-      
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/arun-karthick-yash/phpcom.git"
-        }
-    ]
+    "require": {}
 }
 
 }
