@@ -3,7 +3,7 @@
     "description": "Test",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "phpcom",
