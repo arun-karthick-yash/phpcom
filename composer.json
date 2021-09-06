@@ -15,15 +15,7 @@
             "Acme\\":"src"
         },
     "require": {},
-    "repositories": [
-        {
-            "type": "git",
-            "url":  "https://github.com/arun-karthick-yash/phpcom.git"
-        }
-    ],
-   "classmap":[
-     "phpcom/src"
-   ]     
+    
 }
 
 }
