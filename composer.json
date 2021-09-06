@@ -19,7 +19,15 @@
             "dev-master": "0.1.x-dev"
         }
     },
-    "require": {}
+    "require": {
+        "arun-karthick-yash/phpcom": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/arun-karthick-yash/phpcom.git"
+        }
+    ]
 }
 
 }
