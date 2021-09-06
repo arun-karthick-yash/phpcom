@@ -10,7 +10,10 @@
             "email": "arunkarthickk82@gmail.com"
         }
     ],
-    
+    "autoload":{
+        "psr-0":{
+            "Acme\\":"src"
+        },
     "require": {}
     
 }
